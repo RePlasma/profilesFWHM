@@ -1,2 +1,6 @@
 # profilesFWHM
-Cheatsheet for FWHM in Gaussian case
+Cheatsheet for relations between FWHM and W0 or radius for Gaussian profiles
+
+Motivation: for precision simulation modeling of SFQED setups an unambiguous definition of temporal and spatial scales is necessary. Usually experimentalists refer to fwhm in intensity, while for example in PIC codes like OSIRIS the scale is the spotsize in electric field. This notebook provides a quick check on mapping from one definition to the other.
+
+Notebook by: Óscar Amaro 2023
